@@ -61,6 +61,8 @@
 ### ✅ Презентації (у форматі PDF):
 1. Про Kaggle: Від новачка до майстра
 - https://github.com/dinara070/kaggle-starter-collection/blob/main/Pro-Kaggle-Vid-Novachka-do-Majstra.pdf
+2. Секрети Виграшу на Kaggle: Від Початківця до Гросмейстера
+- https://github.com/dinara070/kaggle-starter-collection/blob/main/Sekreti-Vigrashu-na-Kaggle-Vid-Pochatkivcya-do-Grosmejstera.pdf
 
 ---
 
