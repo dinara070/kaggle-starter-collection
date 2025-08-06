@@ -10,4 +10,5 @@
 ## 🧪 Що включає в себе проєкт:
 
 ### ✅ Презентації (у форматі PDF):
-- 
+1. Про Kaggle: Від новачка до майстра
+- https://github.com/dinara070/kaggle-starter-collection/blob/main/Pro-Kaggle-Vid-Novachka-do-Majstra.pdf
