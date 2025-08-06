@@ -66,6 +66,9 @@
 3. Секрети Виграшу на Kaggle: Від Початківця до Гросмейстера
 - https://github.com/dinara070/kaggle-starter-collection/blob/main/Sekreti-Vigrashu-na-Kaggle-Vid-Pochatkivcya-do-Grosmejstera.pdf
 
+### ✅ Інформаційний сайт:
+- https://kaggle-starter-yqeebhm.gamma.site/
+
 ## Теоретичні таблиці про Kaggle:
 
 ### 📊 Рівні учасників Kaggle (Kaggle Progression)
