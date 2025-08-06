@@ -59,9 +59,11 @@
 ## 🧪 Що включає в себе проєкт:
 
 ### ✅ Презентації (у форматі PDF):
-1. Про Kaggle: Від новачка до майстра
+1. Машинне навчання з Kaggle: Ваш Покроковий Гайд
+- https://github.com/dinara070/kaggle-starter-collection/blob/main/Mashinne-navchannya-z-Kaggle-Vash-Pokrokovij-Gajd.pdf
+2. Про Kaggle: Від новачка до майстра
 - https://github.com/dinara070/kaggle-starter-collection/blob/main/Pro-Kaggle-Vid-Novachka-do-Majstra.pdf
-2. Секрети Виграшу на Kaggle: Від Початківця до Гросмейстера
+3. Секрети Виграшу на Kaggle: Від Початківця до Гросмейстера
 - https://github.com/dinara070/kaggle-starter-collection/blob/main/Sekreti-Vigrashu-na-Kaggle-Vid-Pochatkivcya-do-Grosmejstera.pdf
 
 ---
