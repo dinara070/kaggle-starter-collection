@@ -64,6 +64,9 @@
 ### ✅ Квест "Відкрийте коробку":
 - https://wordwall.net/uk/resource/95668969
 
+### ✅ Гра "Випадкові карти":
+- https://wordwall.net/uk/resource/95669426
+
 ### ✅ Презентації (у форматі PDF):
 1. Машинне навчання з Kaggle: Ваш Покроковий Гайд
 - https://github.com/dinara070/kaggle-starter-collection/blob/main/Mashinne-navchannya-z-Kaggle-Vash-Pokrokovij-Gajd.pdf
