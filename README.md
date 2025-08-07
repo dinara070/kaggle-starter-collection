@@ -58,6 +58,12 @@
 
 ## 🧪 Що включає в себе проєкт:
 
+### ✅ Інформаційний сайт:
+- https://kaggle-starter-yqeebhm.gamma.site/
+
+### ✅ Квест "Відкрийте коробку":
+- https://wordwall.net/uk/resource/95668969
+
 ### ✅ Презентації (у форматі PDF):
 1. Машинне навчання з Kaggle: Ваш Покроковий Гайд
 - https://github.com/dinara070/kaggle-starter-collection/blob/main/Mashinne-navchannya-z-Kaggle-Vash-Pokrokovij-Gajd.pdf
@@ -65,9 +71,6 @@
 - https://github.com/dinara070/kaggle-starter-collection/blob/main/Pro-Kaggle-Vid-Novachka-do-Majstra.pdf
 3. Секрети Виграшу на Kaggle: Від Початківця до Гросмейстера
 - https://github.com/dinara070/kaggle-starter-collection/blob/main/Sekreti-Vigrashu-na-Kaggle-Vid-Pochatkivcya-do-Grosmejstera.pdf
-
-### ✅ Інформаційний сайт:
-- https://kaggle-starter-yqeebhm.gamma.site/
 
 ## Теоретичні таблиці про Kaggle:
 
